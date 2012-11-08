@@ -10,8 +10,8 @@ body {
 	}
 	
 #masterDiv {
-	width: 800px;
-	width: 800px;
+	width: 600px;
+	/*height: 200px;*/
 	margin-right: auto; /* Gør at den altid står centreret uanset hvem der åbner siden */
 	margin-left: auto;	
 	position: relative; /* Fatter stadig ikke hvad dette gør præsic */
