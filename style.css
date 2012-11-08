@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*--------------------- Det der står på alle sites --------------------*/
+
+body {
+	background-color:#030912; /* Mørk blå som de mørke træer i topbilledet */
+	margin-top: 50px; /* Så der bliver lidt luft i toppen - dette ku også gøres i masterDiv (hvad er forskellen?) */
+	}
+	
+#masterDiv {
+	width: 800px;
+	width: 800px;
+	margin-right: auto; /* Gør at den altid står centreret uanset hvem der åbner siden */
+	margin-left: auto;	
+	position: relative; /* Fatter stadig ikke hvad dette gør præsic */
+	background-color:#E3E5DE; /* Hvis som sne */
+	padding: 20px 20px 20px 20px;
+	
+	border-top-left-radius: 6px; /* Runder venstre hjørne - For at det hele ikke skal være så firkantet*/
+	border-top-right-radius: 6px; /* Runder venstre hjørne*/
+	border-bottom-right-radius: 6px; /* Runder venstre hjørne*/
+	border-bottom-left-radius: 6px;
+	/*border:#0F0 3px solid;*/ /* Grøn */
+	}
+
+.storTekst {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	text-align: center;
+	color: #030912;
+}
+	
+
